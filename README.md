@@ -1,5 +1,5 @@
 
-# Planimate
+# Planimate 
 
 Planimate is a React Native application designed to help users plan their goals and break them down into smaller, manageable tasks. The app features a goal planner, a quote section for daily inspiration, and a calendar view for easy scheduling. Future plans include expanding the app with social features and AI assistance.
 
